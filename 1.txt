@@ -1,0 +1,4 @@
+Issues:
+setInterval(function(){
+$(".coin")[0].click();$(".bi-btn")[0].click();$(".card-box").find("p")[0
+}, 1000);
